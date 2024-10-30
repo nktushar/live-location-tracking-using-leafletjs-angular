@@ -1,0 +1,7 @@
+{
+  "name": "RealTimeTrackingApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
